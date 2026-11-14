@@ -1,0 +1,20 @@
+.element{
+    width: 400px;
+    background-color: #DDD;
+    padding: 5px;
+    outline:5px solid #DDD;
+}
+
+.element-1{
+    border-left:5px solid red;
+
+}
+
+.element-2{
+    visibility: hidden;
+}
+
+.element-3{
+    border-left: 5px solid green;
+
+}
